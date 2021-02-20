@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WebScraping</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="Action">
+        <item>Pick Action Type</item>
+        <item colour="red">fall backward while standing</item>
+        <item>fall forward while standing</item>
+        <item>Fall forward while walking</item>
+        <item>Fall backward while walking</item>
+        <item>Sitting forward</item>
+        <item>Sitting backward</item>
+        <item>Walking</item>
+        <item>Running</item>
+        <item>Walking and sitting backward</item>
+        <item>Walking and sitting forward</item>
+    </string-array>
+    <string-array name="Time">
+        <item>Pick Duration Time</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>15 seconds</item>
+        <item>20 seconds</item>
+        <item>25 seconds</item>
+        <item>30 seconds</item>
+    </string-array>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

@@ -1,0 +1,36 @@
+{
+  "specs": {"id": "", "date": "", "profile": "" },
+  "auto_rec_data": {
+    "auto_rec_acc": {
+      "id": {
+        "date":"time in mils",
+        "accelerometer":["accx", "accy", "accz"],
+        "label":"None" 
+      }
+      ...
+    },
+    "auto_rec_mag": {
+      "id": {
+        "date":"time in mils",
+        "accelerometer":["magx", "magy", "magz"],
+        "label":"None" 
+      }
+      ...
+    },
+    "auto_rec_gyro": {
+      "id": {
+        "date":"time in mils",
+        "accelerometer":["gyrox", "gyroy", "gyroz"],
+        "label":"None" 
+      }
+      ...
+    }
+  },
+  "person_rec_data": {
+    "id": null, "date": "", 
+    "accelerometer":[null, null, null],
+    "magnetometer":[null, null, null],
+    "gyroscope":[null, null, null],
+    "label": ""
+  }
+}
